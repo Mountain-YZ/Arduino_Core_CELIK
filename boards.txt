@@ -1,0 +1,6 @@
+celik_dev.name=ÇELİK Dev Board
+# TODO: placeholders, ISA and board clock not published (chip: 24-50 MHz)
+celik_dev.build.mcu=rv32
+celik_dev.build.f_cpu=48000000L
+celik_dev.build.core=celik
+celik_dev.build.variant=celik_dev
